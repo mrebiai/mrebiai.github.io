@@ -6,5 +6,13 @@
 TODO
 
 == Conferences & Presentations
-TODO
+=== 2023
+* Bordeaux Jug
+** Source : https://github.com/mrebiai/laptop-as-code[^]
+** Slides : https://mrebiai.github.io/laptop-as-code[^]
+
+=== 2015
+* Bdx.io 
+** Source : https://github.com/mrebiai/moijecodemadoc[^]
+** Slides : https://github.com/mrebiai/moijecodemadoc/wiki/generated/moijecodemadoc.pdf[^]
 
