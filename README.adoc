@@ -3,7 +3,7 @@
 :icons: font
 
 == Open Source
-TODO
+* https://github.com/lectra-tech/kapoeira[^], dockerized integration test tool for Kafka Environment
 
 == Conferences & Presentations
 === 2023
