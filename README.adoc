@@ -2,8 +2,16 @@
 :toc: left
 :icons: font
 
+== About me
+Developer since 2004...
+
+icon:github[] https://github.com/mrebiai[^]
+
 == Open Source
-* https://github.com/lectra-tech/kapoeira[^], dockerized integration test tool for Kafka Environment
+=== Kapoeira
+* Source : https://github.com/lectra-tech/kapoeira[^], 
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/[^]
 
 == Conferences & Presentations
 === 2023
