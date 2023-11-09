@@ -11,18 +11,28 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 
 == Open Source
 === Kapoeira
-* Source : https://github.com/lectra-tech/kapoeira[^], 
-* Resources : https://github.com/jvauchel/kapoeira-dance[^]
-* Slides : https://jvauchel.github.io/kapoeira-dance/[^]
+* Source : https://github.com/lectra-tech/kapoeira[^]
 
 == Conferences & Presentations
 === 2023
-* Bordeaux Jug
+* Bordeaux Jug - Laptop As Code
 ** Source : https://github.com/mrebiai/laptop-as-code[^]
 ** Slides : https://mrebiai.github.io/laptop-as-code[^]
 
+* Webinar NAOS - Youpi dansons la Kapoeira
+** Resources : https://github.com/jvauchel/kapoeira-dance[^]
+** Slides : https://jvauchel.github.io/kapoeira-dance/index-webinar.html[^]
+
+* BDXIO (Bordeaux) - Youpi dansons la Kapoeira
+** Resources : https://github.com/jvauchel/kapoeira-dance[^]
+** Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
+
+* Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
+** Resources : https://github.com/jvauchel/kapoeira-dance[^]
+** Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
+
 === 2015
-* Bdx.io 
+* Bdx.io - Moi je code ma doc
 ** Source : https://github.com/mrebiai/moijecodemadoc[^]
 ** Slides : https://github.com/mrebiai/moijecodemadoc/wiki/generated/moijecodemadoc.pdf[^]
 
