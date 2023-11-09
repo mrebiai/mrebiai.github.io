@@ -38,4 +38,6 @@ video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
 * Bdx.io - Moi je code ma doc
 ** Source : https://github.com/mrebiai/moijecodemadoc[^]
 ** Slides : https://github.com/mrebiai/moijecodemadoc/wiki/generated/moijecodemadoc.pdf[^]
+** Video
 
+video::HVnVOX69m6A?si=OMomwZpN2We_4pE4[youtube]
