@@ -22,6 +22,9 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 * Webinar NAOS - Youpi dansons la Kapoeira
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
 ** Slides : https://jvauchel.github.io/kapoeira-dance/index-webinar.html[^]
+** Video 
+
+video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
 
 * BDXIO (Bordeaux) - Youpi dansons la Kapoeira
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
