@@ -7,6 +7,8 @@ Developer since 2004...
 
 icon:github[] https://github.com/mrebiai[^]
 
+icon:envelope[] mehdi.rebiai.dev@gmail.com
+
 == Open Source
 === Kapoeira
 * Source : https://github.com/lectra-tech/kapoeira[^], 
