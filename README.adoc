@@ -18,6 +18,9 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 * Bordeaux Jug - Laptop As Code
 ** Source : https://github.com/mrebiai/laptop-as-code[^]
 ** Slides : https://mrebiai.github.io/laptop-as-code[^]
+** Video
+
+video::Jq12Jyh86Fo?si=ZkAOca9f1tDNHFXk[youtube]
 
 * Webinar NAOS - Youpi dansons la Kapoeira
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
