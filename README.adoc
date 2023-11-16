@@ -1,6 +1,7 @@
 = Mehdi Rebiai
 :toc: left
 :icons: font
+:toclevels: 3
 
 == About me
 Developer since 2004...
@@ -15,32 +16,29 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 
 == Conferences & Presentations
 === 2023
-* Bordeaux Jug - Laptop As Code
-** Source : https://github.com/mrebiai/laptop-as-code[^]
-** Slides : https://mrebiai.github.io/laptop-as-code[^]
-** Video
+==== Bordeaux Jug - Laptop As Code
+* Source : https://github.com/mrebiai/laptop-as-code[^]
+* Slides : https://mrebiai.github.io/laptop-as-code[^]
 
 video::Jq12Jyh86Fo?si=ZkAOca9f1tDNHFXk[youtube]
 
-* Webinar NAOS - Youpi dansons la Kapoeira
-** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : https://jvauchel.github.io/kapoeira-dance/index-webinar.html[^]
-** Video 
+==== Webinar NAOS - Youpi dansons la Kapoeira
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/index-webinar.html[^]
 
 video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
 
-* BDXIO (Bordeaux) - Youpi dansons la Kapoeira
-** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
+==== BDX I/O (Bordeaux) - Youpi dansons la Kapoeira
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
 
-* Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
+==== Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
 ** Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
 
 === 2015
-* Bdx.io - Moi je code ma doc
-** Source : https://github.com/mrebiai/moijecodemadoc[^]
-** Slides : https://github.com/mrebiai/moijecodemadoc/wiki/generated/moijecodemadoc.pdf[^]
-** Video
+==== BDX I/O (Bordeaux) - Moi je code ma doc
+* Source : https://github.com/mrebiai/moijecodemadoc[^]
+* Slides : https://github.com/mrebiai/moijecodemadoc/wiki/generated/moijecodemadoc.pdf[^]
 
 video::HVnVOX69m6A?si=OMomwZpN2We_4pE4[youtube]
