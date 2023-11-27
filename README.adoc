@@ -6,6 +6,10 @@
 == About me
 Developer since 2004...
 
+* Scala, Java, Bash
+* CI/CD, automation
+* Kafka, Spark, Snowflake
+
 icon:github[] https://github.com/mrebiai[^]
 
 icon:envelope[] mehdi.rebiai.dev@gmail.com
