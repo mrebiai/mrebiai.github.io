@@ -21,11 +21,15 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 
 == Conferences & Presentations
 === 2023
-==== Bordeaux Jug - Laptop As Code
-* Source : https://github.com/mrebiai/laptop-as-code[^]
-* Slides : https://mrebiai.github.io/laptop-as-code[^]
+==== Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
+** Resources : https://github.com/jvauchel/kapoeira-dance[^]
+** Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
 
-video::Jq12Jyh86Fo?si=ZkAOca9f1tDNHFXk[youtube]
+==== BDX I/O (Bordeaux) - Youpi dansons la Kapoeira
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
+
+video::07ytQOHV5Sk[youtube, start=798]
 
 ==== Webinar NAOS - Youpi dansons la Kapoeira
 * Resources : https://github.com/jvauchel/kapoeira-dance[^]
@@ -33,13 +37,11 @@ video::Jq12Jyh86Fo?si=ZkAOca9f1tDNHFXk[youtube]
 
 video::tvyfoFBFBvM?si=n9MH49pZDCHHJUwg[youtube]
 
-==== BDX I/O (Bordeaux) - Youpi dansons la Kapoeira
-* Resources : https://github.com/jvauchel/kapoeira-dance[^]
-* Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
+==== Bordeaux Jug - Laptop As Code
+* Source : https://github.com/mrebiai/laptop-as-code[^]
+* Slides : https://mrebiai.github.io/laptop-as-code[^]
 
-==== Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
-** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
+video::Jq12Jyh86Fo?si=ZkAOca9f1tDNHFXk[youtube]
 
 === 2015
 ==== BDX I/O (Bordeaux) - Moi je code ma doc
