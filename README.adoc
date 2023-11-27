@@ -29,7 +29,7 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 * Resources : https://github.com/jvauchel/kapoeira-dance[^]
 * Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
 
-video::07ytQOHV5Sk[youtube, start=798]
+video::07ytQOHV5Sk[youtube, start=793]
 
 ==== Webinar NAOS - Youpi dansons la Kapoeira
 * Resources : https://github.com/jvauchel/kapoeira-dance[^]
