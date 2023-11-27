@@ -6,9 +6,10 @@
 == About me
 Developer since 2004...
 
-* Scala, Java, Bash
+* Scala, Kotlin, Java, Bash
+* Kafka, Snowflake, Spark
 * CI/CD, automation
-* Kafka, Spark, Snowflake
+* Angular, React, Vanilla JS
 
 icon:github[] https://github.com/mrebiai[^]
 
