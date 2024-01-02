@@ -20,6 +20,11 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 * Source : https://github.com/lectra-tech/kapoeira[^]
 
 == Conferences & Presentations
+=== 2024
+==== Scala.io (Nantes) - Youpi dansons la Kapoeira en testant nos Kafka streams
+** Resources : https://github.com/jvauchel/kapoeira-dance[^]
+** Slides : TODO
+
 === 2023
 ==== Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
