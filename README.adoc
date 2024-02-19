@@ -34,11 +34,13 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
 ** Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
 
+video::8EP-FgQzIO8[youtube]
+
 ==== BDX I/O (Bordeaux) - Youpi dansons la Kapoeira
 * Resources : https://github.com/jvauchel/kapoeira-dance[^]
 * Slides : https://jvauchel.github.io/kapoeira-dance/index-bdxio.html[^]
 
-video::xu7vXAO47TA?si=ufio3dqgx-N7w-CW[youtube, start=793]
+video::xu7vXAO47TA?si=rifv3JT_XU4yclNg[youtube]
 
 ==== Webinar NAOS - Youpi dansons la Kapoeira
 * Resources : https://github.com/jvauchel/kapoeira-dance[^]
