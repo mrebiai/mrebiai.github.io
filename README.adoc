@@ -29,6 +29,8 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
 ** Slides : https://jvauchel.github.io/kapoeira-dance/index-scalaio.html[^]
 
+video::BUQFj2jrGj8[youtube]
+
 === 2023
 ==== Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
