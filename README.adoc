@@ -23,7 +23,7 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 === 2024
 ==== Devoxx France (Paris) - Youpi dansons la Kapoeira en testant nos Kafka streams
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : TODO
+** Slides : https://jvauchel.github.io/kapoeira-dance/index-devoxxfrance.html[^]
 
 ==== Scala.io (Nantes) - Youpi dansons la Kapoeira en testant nos Kafka streams
 ** Resources : https://github.com/jvauchel/kapoeira-dance[^]
