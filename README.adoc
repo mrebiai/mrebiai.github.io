@@ -21,7 +21,7 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 
 == Conferences & Presentations
 === 2025
-==== Meetup - BDX Testing Community
+==== Meetup - BDX Testing Community (Bordeaux) - Ne ratez pas votre SQL avec un test Karate
 * Resources : https://github.com/mrebiai/karate-snowflake[^]
 * Slides : https://mrebiai.github.io/karate-snowflake/index-bdxtestingcommunity.html[^]
 
