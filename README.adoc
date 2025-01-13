@@ -20,23 +20,28 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 * Source : https://github.com/lectra-tech/kapoeira[^]
 
 == Conferences & Presentations
+=== 2025
+==== Meetup - BDX Testing Community
+* Resources : https://github.com/mrebiai/karate-snowflake[^]
+* Slides : https://mrebiai.github.io/karate-snowflake/index-bdxtestingcommunity.html[^]
+
 === 2024
 ==== Devoxx France (Paris) - Youpi dansons la Kapoeira en testant nos Kafka streams
-** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : https://jvauchel.github.io/kapoeira-dance/index-devoxxfrance.html[^]
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/index-devoxxfrance.html[^]
 
 video::ELFCAgdgSro[youtube]
 
 ==== Scala.io (Nantes) - Youpi dansons la Kapoeira en testant nos Kafka streams
-** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : https://jvauchel.github.io/kapoeira-dance/index-scalaio.html[^]
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/index-scalaio.html[^]
 
 video::BUQFj2jrGj8[youtube]
 
 === 2023
 ==== Capitole du Libre (Toulouse) - Youpi dansons la Kapoeira
-** Resources : https://github.com/jvauchel/kapoeira-dance[^]
-** Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
+* Resources : https://github.com/jvauchel/kapoeira-dance[^]
+* Slides : https://jvauchel.github.io/kapoeira-dance/index-capitoledulibre.html[^]
 
 video::8EP-FgQzIO8[youtube]
 
