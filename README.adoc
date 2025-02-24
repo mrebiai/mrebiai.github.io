@@ -16,8 +16,11 @@ icon:github[] https://github.com/mrebiai[^]
 icon:envelope[] mehdi.rebiai.dev@gmail.com
 
 == Open Source
-=== Kapoeira
+=== kapoeira (maintainer)
 * Source : https://github.com/lectra-tech/kapoeira[^]
+
+=== karate-connect (maintainer)
+* Source : https://github.com/lectra-tech/karate-connect[^]
 
 == Conferences & Presentations
 === 2025
