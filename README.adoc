@@ -21,7 +21,9 @@ icon:envelope[] mehdi.rebiai.dev@gmail.com
 
 === karate-connect (maintainer)
 * Source : https://github.com/lectra-tech/karate-connect[^]
-* Article : https://tech-blog.lectra.com/article/797-karate-connect-dont-break-your-sql-code-karate-test[^]
+* Articles :
+** https://medium.com/snowflake/karate-connect-57c1fca7f407[^]
+** https://tech-blog.lectra.com/article/797-karate-connect-dont-break-your-sql-code-karate-test[^]
 
 == Conferences & Presentations
 === 2025
